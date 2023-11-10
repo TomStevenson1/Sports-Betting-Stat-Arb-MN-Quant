@@ -1,1 +1,1 @@
-# Sports-Betting-Stat-Arb-MN-Quant
+# Sports betting project for MN Quants by Tom Stevenson and Calvin Kunert.
